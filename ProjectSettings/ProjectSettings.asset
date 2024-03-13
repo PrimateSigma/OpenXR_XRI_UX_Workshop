@@ -868,11 +868,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 5d705a59-0a96-46ba-ae4d-5ffd5f02f6d3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: OpenXR_XRI_UX_Workshop
+  organizationId: syversson125
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
